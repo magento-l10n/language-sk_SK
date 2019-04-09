@@ -1,0 +1,20 @@
+{
+    "name": "community-engineering/language-sk_sk",
+    "type": "magento2-language",
+    "description": "sk_SK language package.",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+          "registration.php"
+        ]
+    }
+}
