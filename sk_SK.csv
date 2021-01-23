@@ -1998,14 +1998,17 @@ Condition,Podmienky
 "Enable Terms and Conditions","Zapnúť Zmluvné podmienky"
 "Preview mode doesn't allow submitting the order.","Režim náhľadu nepovoľuje odoslanie objednávky."
 "Static Blocks","Statické bloky"
+"Are you sure you want to do this?","Naozaj chcete pokračovať?"
 Created,Vytvorené
 "Delete File","Odstrániť súbor"
 "We can't find a block to delete.","Nemôžeme nájsť blok, ktorý chcete odstrániť."
+"A total of %1 record(s) have been deleted.","Celkom %1 záznam(ov) bol(o) odstránený(ch)."
 "We can't find a page to delete.","Nemôžeme nájsť stánku, ktorú chcete odstrániť."
-"We can't upload the file right now.","Práve teraz nieje možné nahrať súbor."
-"We can't delete root directory %1 right now.","Práve teraz nieje možné odstrániť koreňový adresár %1."
+"We can't upload the file right now.","Práve teraz nie je možné nahrať súbor."
+"We can't delete root directory %1 right now.","Práve teraz nie je možné odstrániť koreňový adresár %1."
 Exception,Výnimka
 View,Zobraziť
+"Anchor Custom Text","Vlastný text kotvy"
 "Edit Block '%1'","Upraviť blok ""%1"""
 "Edit Page '%1'","Upraviť stránku ""%1"""
 "Page Layout","Rozloženie strany"
@@ -2608,6 +2611,8 @@ Assign,Priradiť
 "Admin is a required field in the each row","Admin je povinné pole v každom riadku"
 "Manage Swatch (values of your attribute)","Správa prepínačov(hodnôt atribútov)"
 more,viac
+"We can't upload the file right now.","Práve teraz nieje možné nahrať súbor."
+"We can't delete root directory %1 right now.","Práve teraz nieje možné odstrániť koreňový adresár %1."
 Menu,Ponuka
 Account,Účet
 "Condition type ""%1"" is not allowed","Podmienka typu ""%1"" nie je povolená"
